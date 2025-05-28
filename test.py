@@ -3,3 +3,4 @@ if a % 2 ==0
 print ("even")
 else
 Print ("odd")
+print ("version 2")
